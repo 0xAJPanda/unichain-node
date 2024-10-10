@@ -79,3 +79,5 @@ docker compose down
 
 By default, the data directory is stored in `${PROJECT_ROOT}/geth-data`. You can override this by modifying the value of
 `HOST_DATA_DIR` variable in the [`.env`](./.env) file.
+
+## Make sure to back up your node key located at : ~/unichain-node/geth-data/geth
