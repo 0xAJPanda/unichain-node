@@ -25,7 +25,7 @@ sudo apt update && sudo apt install -y docker.io docker-compose && sudo systemct
 
 ### Usage
 
-1. Clone this Repr
+1. Clone this Repo
 
 ```
 
