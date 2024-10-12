@@ -18,8 +18,11 @@ If you encounter problems with your node, please open a [GitHub issue](https://g
 
 1. You need docker installed and docker compose (if you already have it installed move to the Usage section)
 
+Follow the instruction from the official documentation : https://docs.docker.com/engine/install/ubuntu/
+
 ```
-sudo apt update && sudo apt install -y docker.io docker-compose && sudo systemctl enable --now docker
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
 
 ```
 
